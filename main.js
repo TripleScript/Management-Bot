@@ -5,12 +5,12 @@ import { bypass } from './bypass.js';
 
 // change import to const if it doesn't work
 
-const token = ``; // Your Bot Token!
-const clientId = ``; // Your Bot ClientID!
+const token = `MTI1NjUzNjQzODY0OTEzMTA4MA.GuLoLe.rUsEVgM0l9bQZYH4zapeMGKQmXS3kb0gQo64jM`; // Your Bot Token!
+const clientId = `1256536438649131080`; // Your Bot ClientID!
 
 // footer
 
-const OwnerName = `Made by Shouko`; // Your Name Or Something I Dont Care!
+const OwnerName = `Made by itsborg`; // Your Name Or Something I Dont Care!
 
 // api key & endpoint
 
@@ -19,9 +19,9 @@ const Endpoint = `http://45.90.13.151:6132`;
 
 // author
 
-const rlowisgay = `Shouko Bot -- Template`;
+const rlowisgay = `management Bot -- Template`;
 const iconlink = `https://cdn.discordapp.com/icons/1221286752027672686/5ae16d3a1d7411a46abf6d4d6ac53934.png`;
-const monkey = `https://discord.gg/shoukohub`
+const monkey = `https://discord.com/invite/QydDGkca`
 
 const commands = [
   { name: 'bypass', description: 'Whitelist/Get Key'}, 
