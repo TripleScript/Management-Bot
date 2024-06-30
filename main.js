@@ -5,8 +5,8 @@ import { bypass } from './bypass.js';
 
 // change import to const if it doesn't work
 
-const token = `MTI1NjUzNjQzODY0OTEzMTA4MA.GuLoLe.rUsEVgM0l9bQZYH4zapeMGKQmXS3kb0gQo64jM`; // Your Bot Token!
-const clientId = `1256536438649131080`; // Your Bot ClientID!
+const token = ``; // Your Bot Token!
+const clientId = ``; // Your Bot ClientID!
 
 // footer
 
